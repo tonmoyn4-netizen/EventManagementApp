@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EventClient/EventClient.csproj" />
+  <Project Path="EventServer/EventServer.csproj" />
+</Solution>
